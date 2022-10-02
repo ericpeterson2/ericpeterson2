@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on supervised, unsupervised and neural network machine learning models
+- 🌱 I’m currently improving my skills on Neural network models (LSTM, CNN..)
+- 👯 I’m looking to collaborate on data science prokects
+
 <!--
 **ericpeterson2/ericpeterson2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
